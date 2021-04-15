@@ -14,11 +14,13 @@ Pitch is the distance between screw grooves, and the pitch of the screw used in 
 Working backwards, we can find out how many steps the motor takes per 1 mL. Volume is equal to height x area. The height will tell us how many steps, and the area is already known. In this case, the area is pi* r^2. The radius of the syringe is 9.5 mm, or 0.95 cm, so the area is 2.84 cm2. 
 
 With the area, we can now find the height associated with a volume 1 mL = 1 cm3: 
+
 height = z = Volume/Area = 1 cm3/2.83 cm2 --> z = 0.352 cm. 
 
 We know that the pitch of the screw is 1.25 mm, or 0.125 cm, 
 
 so: 0.125 cm per rotation/number of steps per rotation = 0.352 cm 
+
 Number of steps per mL = 0.355 
 
 **In conclusion, we take 0.355 steps to expel 1 mL of fluid.** 
