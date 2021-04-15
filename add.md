@@ -20,6 +20,7 @@ We know that the pitch of the screw is 1.25 mm, or 0.125 cm,
 
 so: 0.125 cm per rotation/number of steps per rotation = 0.352 cm 
 Number of steps per mL = 0.355 
+
 **In conclusion, we take 0.355 steps to expel 1 mL of fluid.** 
 
 ### What is the resolution? 
