@@ -1,3 +1,8 @@
+- [Home](/Syringe-Pump-Github-Project/index)
+- [Mechanical](/Syringe-Pump-Github-Project/MechanicalAssembly)
+- [Electrical](/Syringe-Pump-Github-Project/electrical)
+- **[Code](/Syringe-Pump-Github-Project/code)**
+
 # Arduino Code for Syringe Pump
 
 Below is code that works for the Arduino Uno and Mega. Copy and past into the Arduino IDE.
