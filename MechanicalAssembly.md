@@ -28,9 +28,9 @@ Nema 17 Stepper Motor | 1
 
 ## Pictures of Assembly 
 
-![picture of assembly](/Syringe-Pump-Github-Project/sp/view1)
-![picture of assembly](/Syringe-Pump-Github-Project/sp/view2)
-![picture of assembly](/Syringe-Pump-Github-Project/sp/view3)
-![picture of assembly](/Syringe-Pump-Github-Project/sp/view4)
-![picture of assembly](/Syringe-Pump-Github-Project/sp/view8)
+![picture of assembly](/Syringe-Pump-Github-Project/sp/view1.png)
+![picture of assembly](/Syringe-Pump-Github-Project/sp/view2.png)
+![picture of assembly](/Syringe-Pump-Github-Project/sp/view3.png)
+![picture of assembly](/Syringe-Pump-Github-Project/sp/view4.png)
+![picture of assembly](/Syringe-Pump-Github-Project/sp/view8.png)
 
