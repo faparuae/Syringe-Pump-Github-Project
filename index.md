@@ -1,6 +1,6 @@
 - **[Home](/Syringe-Pump-Github-Project/index)**
 - [Mechanical](/Syringe-Pump-Github-Project/MechanicalAssembly)
-- [Electrical](/Syringe-Pump-Github-Project/electrical)
+- [Electrical](/Syringe-Pump-Github-Project/Electrical)
 - [Code](/Syringe-Pump-Github-Project/code)
 
 # How to Build a Syringe Pump
