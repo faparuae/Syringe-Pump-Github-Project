@@ -1,5 +1,5 @@
 - [Home](/Syringe-Pump-Github-Project/index)
-- **[Mechanical](/Syringe-Pump-Github-Project/MechanicalAssembly)
+- **[Mechanical](/Syringe-Pump-Github-Project/MechanicalAssembly)**
 - [Electrical](/Syringe-Pump-Github-Project/electrical)
 - [Code](/Syringe-Pump-Github-Project/code)
 
