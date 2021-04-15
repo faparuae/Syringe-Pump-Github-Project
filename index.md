@@ -6,4 +6,6 @@
 
 # How to Build a Syringe Pump
 
-Describe specifications of syringe pump, and why you would build and program your own pump. 
+A syringe pump is a pump that delivers precise and accurate amounts of fluid, typically in research environments. A syringe pump can handle very small fluid deliveries and typically handles smaller volumes. 
+
+Although buying a pre-made syringe pumps are readily available, you can save a lot of money by buying the parts and building a syringe pump yourself. (as shown on this website!)
