@@ -25,3 +25,12 @@ Nema 17 Stepper Motor | 1
 ## Fusion 360 Model
 
 <iframe src="https://vanderbilt415.autodesk360.com/shares/public/SH56a43QTfd62c1cd9685654bf4a0f0eaccb?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
+
+## Pictures of Assembly 
+
+![picture of assembly](/Syringe-Pump-Github-Project/sp/view1)
+![picture of assembly](/Syringe-Pump-Github-Project/sp/view2)
+![picture of assembly](/Syringe-Pump-Github-Project/sp/view3)
+![picture of assembly](/Syringe-Pump-Github-Project/sp/view4)
+![picture of assembly](/Syringe-Pump-Github-Project/sp/view8)
+
