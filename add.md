@@ -16,6 +16,7 @@ Working backwards, we can find out how many steps the motor takes per 1 mL. Volu
 With the area, we can now find the height: 0.709 cm2 * z cm = 1 cm3 = 1 mL --> z = 1.41 cm. 
 
 We know that the pitch of the screw is 1.25 mm, or 0.125 cm, 
+
 so: (0.125 cm x 360)/ number of steps = 1.41 cm. ---> number of steps = 32. 
 
 Therefore, the motor can take 32 steps per 1 mL. 
