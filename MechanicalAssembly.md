@@ -16,3 +16,7 @@ Nema 17 Stepper Motor | 1
 [M8 Hex Nut](https://www.mcmaster.com/90592A022/) | 1
 [Aluminum Extrusion (1 ft)](https://www.mcmaster.com/47065T107/)| 1
 [T Nut and Bolt](https://www.mcmaster.com/47065T139/) | 6 
+
+## Fusion 360 Model
+
+<iframe src="https://vanderbilt415.autodesk360.com/shares/public/SH56a43QTfd62c1cd9685654bf4a0f0eaccb?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
