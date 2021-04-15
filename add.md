@@ -20,8 +20,8 @@ so: (0.125 cm x 360)/ number of steps = 1.41 cm. ---> number of steps = 32.
 
 Therefore, the motor can take 32 steps per 1 mL. 
 
-## What is the resolution? 
+### What is the resolution? 
 On the same basis of the earlier calculation for steps per mL, we can also find the resolution. The resolution is 1 mL divided by the number of steps calculated. In this case, the resolution is 1/32 = 0.0313 cm3.  
 
-## What is the limiting factor on the maximum flow rate?  
+### What is the limiting factor on the maximum flow rate?  
 700 rpm is the maximum amount of turns that the motor can perform before the torque gives out. However, the actual value that the motor will spin is less than that due to friction between the nut and bolt. 
