@@ -7,7 +7,7 @@
 # Additional Factors to Consider
 
 ## How many steps per mL? 
-step stuff goes here. 
+Typically, a stepper motor takes 200 steps per rotation. However, with microstepping, the stepper motor can take 1/16 of the original step size. Therefore, with microstepping, a stepper motor could take 3,200 steps per rotation. 
 
 ## What is the resolution? 
 resolution stuff goes here 
