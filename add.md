@@ -6,7 +6,7 @@
 
 # Additional Factors to Consider
 
-## How many steps per mL? 
+### How many steps per mL? 
 Typically, a stepper motor takes 200 steps per rotation. However, with microstepping, the stepper motor can take 1/16 of the original step size. Therefore, with microstepping, a stepper motor could take 3,200 steps per rotation. 
 
 Pitch is the distance between screw grooves, and the pitch of the screw used in the syringe pump is 1.25 mm. This means that, linearly, there is 1.25 mm of movement for  every rotation of the screw. Finally, the smallest height we could have within our syringe would be pitch divided by the steps per rotation. In this case, that would be (1.25x360)/3200 = 0.141 mm. 
