@@ -1,5 +1,7 @@
 # Arduino Code for Syringe Pump
 
+Below is code that works for the Arduino Uno and Mega. Copy and past into the Arduino IDE.
+
 ```
 / Include the AccelStepper Library
 #include <AccelStepper.h>
