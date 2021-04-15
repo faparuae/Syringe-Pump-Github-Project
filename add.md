@@ -12,5 +12,5 @@ step stuff goes here.
 ## What is the resolution? 
 resolution stuff goes here 
 
-## What is the max flow rate? 
-max flow rate and what the limiting factor is goes here 
+## What is the limiting factor on the maximum flow rate?  
+700 rpm is the maximum amount of turns that the motor can perform before the torque gives out. However, the actual value that the motor will spin is less than that due to friction between the nut and bolt. 
