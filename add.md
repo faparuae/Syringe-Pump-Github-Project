@@ -19,14 +19,15 @@ height = z = Volume/Area = 1 cm3/2.83 cm2 --> z = 0.352 cm.
 
 We know that the pitch of the screw is 1.25 mm, or 0.125 cm, 
 
-so: 0.125 cm per rotation/number of steps per rotation = 0.352 cm 
+so: 0.125 cm per rotation/number of steps per rotation = 0.352 cm --> Number of steps = 0.125 cm/0.352 cm
 
 Number of steps per mL = 0.355 
 
-**In conclusion, we take 0.355 steps to expel 1 mL of fluid.** 
+**In conclusion, the motor takes 0.355 steps to expel 1 mL of fluid.** 
 
 ### What is the resolution? 
 On the same basis of the earlier calculation for steps per mL, we can also find the resolution. The resolution is 1 mL divided by the number of steps calculated. In this case, the resolution is 1 mL/0.355 = 2.82 cm3.  
+**So the resolution would be 2.82 mL.**
 
 ### What is the limiting factor on the maximum flow rate?  
 700 rpm is the maximum amount of turns that the motor can perform before the torque gives out. However, the actual value that the motor will spin is less than that due to friction between the nut and bolt. 
